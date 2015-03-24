@@ -1,2 +1,7 @@
-# ameenrep
-this is my first repository
+# include <stdio.h>
+#include <conio.h>
+void main()
+{
+printf("\n Hello world");
+
+}
